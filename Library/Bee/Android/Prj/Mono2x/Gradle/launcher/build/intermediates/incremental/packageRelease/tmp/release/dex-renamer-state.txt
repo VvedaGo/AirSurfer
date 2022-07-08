@@ -1,0 +1,4 @@
+#Fri Jul 08 10:44:23 CAT 2022
+base.0=D\:\\GitHub\\AirSurfer\\Library\\Bee\\Android\\Prj\\Mono2x\\Gradle\\launcher\\build\\intermediates\\dex\\release\\mergeDexRelease\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
